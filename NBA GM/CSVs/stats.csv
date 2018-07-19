@@ -1,0 +1,583 @@
+Name,2017-18 Salary,2018-19 Salary,2019-20 Salary,2020-21 Salary,Contract Type,Name,Team
+Stephen Curry,34682550,37457154.0,40231758.0,43006362.0,Bird Rights,Stephen Curry,GSW
+LeBron James,33285709,,,,Early Bird,LeBron James,CLE
+Paul Millsap,31269231,29730769.0,30500000.0,,Cap space,Paul Millsap,DEN
+Gordon Hayward,29727900,31214295.0,32700690.0,34187085.0,Cap space,Gordon Hayward,BOS
+Blake Griffin,29512900,31873932.0,34234964.0,36595996.0,Bird Rights,Blake Griffin,DET
+Kyle Lowry,28703704,31000000.0,33296296.0,,Bird Rights,Kyle Lowry,TOR
+Russell Westbrook,28530608,35350000.0,38178000.0,41006000.0,Bird Rights,Russell Westbrook,OKC
+Mike Conley,28530608,30521115.0,32511623.0,34504132.0,Cap Space,Mike Conley,MEM
+James Harden,28299399,30431854.0,37800000.0,40824000.0,Bird Rights,James Harden,HOU
+DeMar DeRozan,27739975,27739975.0,27739975.0,27739975.0,Cap Space,DeMar DeRozan,TOR
+Al Horford,27734405,28928710.0,30123015.0,,Cap Space,Al Horford,BOS
+Carmelo Anthony,26243760,27928140.0,,,Bird Rights,Carmelo Anthony,OKC
+Damian Lillard,26153057,27977689.0,29802321.0,31626953.0,1st Round Pick,Damian Lillard,POR
+Jrue Holiday,25686667,26131111.0,26131111.0,26131111.0,Bird Rights,Jrue Holiday,NOP
+Chris Bosh,25289390,26837720.0,,,,Chris Bosh,MIA
+Kevin Durant,25000000,,,,Non-Bird Rights,Kevin Durant,GSW
+Otto Porter,24773250,26011913.0,27250576.0,28489239.0,Bird Rights,Otto Porter,WAS
+Chris Paul,24599495,,,,Bird Rights,Chris Paul,HOU
+CJ McCollum,23962573,25759766.0,27556959.0,29354152.0,1st Round Pick,CJ McCollum,POR
+Bradley Beal,23775506,25434263.0,27093019.0,28751775.0,Cap Space,Bradley Beal,WAS
+Anthony Davis,23775506,25434263.0,27093019.0,28751775.0,1st Round Pick,Anthony Davis,NOP
+Andre Drummond,23775506,25434263.0,27093019.0,28751775.0,Cap Space,Andre Drummond,DET
+Hassan Whiteside,23775506,25434263.0,27093018.0,,Cap Space,Hassan Whiteside,MIA
+Dwight Howard,23500000,,,,Cap Space,Dwight Howard,CHO
+Chandler Parsons,23112004,24107258.0,25102511.0,,Cap Space,Chandler Parsons,MEM
+Harrison Barnes,23112004,24107258.0,25102512.0,,Cap Space,Harrison Barnes,DAL
+J.J. Redick,23000000,,,,Cap space,J.J. Redick,PHI
+Marc Gasol,22642350,24119025.0,25595700.0,,Bird Rights,Marc Gasol,MEM
+Kevin Love,22642350,24119025.0,25595700.0,,Bird Rights,Kevin Love,CLE
+Brook Lopez,22642350,,,,Bird Rights,Brook Lopez,LAL
+DeAndre Jordan,22642350,,,,Bird Rights,DeAndre Jordan,LAC
+Steven Adams,22471910,24157303.0,25842697.0,27528090.0,1st Round Pick,Steven Adams,OKC
+Giannis Antetokounmpo,22471910,24157303.0,25842697.0,27528090.0,1st Round Pick,Giannis Antetokounmpo,MIL
+Nicolas Batum,22434783,24000000.0,25565217.0,27130434.0,Cap Space,Nicolas Batum,CHO
+Rudy Gobert,21974719,23491573.0,25008427.0,26525281.0,1st Round Pick,Rudy Gobert,UTA
+LaMarcus Aldridge,21461010,22347015.0,26000000.0,24000000.0,Cap Space,LaMarcus Aldridge,SAS
+Victor Oladipo,21000000,21000000.0,21000000.0,21000000.0,1st Round Pick,Victor Oladipo,IND
+Enes Kanter,20566802,18622514.0,,,Bird Rights,Enes Kanter,NYK
+Danilo Gallinari,20559599,21587579.0,22615559.0,,Sign and Trade,Danilo Gallinari,LAC
+Serge Ibaka,20061729,21666667.0,23271604.0,,Cap space,Serge Ibaka,TOR
+George Hill,20000000,19000000.0,18000000.0,,Cap space,George Hill,CLE
+Ryan Anderson,19578455,20421546.0,21264635.0,,Cap Space,Ryan Anderson,HOU
+Paul George,19508958,,,,1st Round Pick,Paul George,OKC
+Allen Crabbe,19332500,18500000.0,18500000.0,,Cap Space,Allen Crabbe,BRK
+Jimmy Butler,19301070,20445779.0,19841627.0,,Bird Rights,Jimmy Butler,MIN
+Jeff Teague,19000000,19000000.0,19000000.0,,Cap space,Jeff Teague,MIN
+Kawhi Leonard,18868625,20099189.0,21329752.0,,Bird Rights,Kawhi Leonard,SAS
+Kyrie Irving,18868625,20099188.0,21329750.0,,Bird Rights,Kyrie Irving,BOS
+John Wall,18063850,19169800.0,37800000.0,40824000.0,Bird Rights,John Wall,WAS
+DeMarcus Cousins,18063850,,,,1st Round Pick,DeMarcus Cousins,NOP
+Wesley Matthews,17884176,18622514.0,,,Cap Space,Wesley Matthews,DAL
+Greg Monroe,17884176,,,,,Greg Monroe,PHO
+Klay Thompson,17826150,18988725.0,,,1st Round Pick,Klay Thompson,GSW
+Joakim Noah,17765000,18530000.0,19295000.0,,Cap Space,Joakim Noah,NYK
+Kentavious Caldwell-Pope,17745894,,,,Cap space,Kentavious Caldwell-Pope,LAL
+Luol Deng,17190000,18000000.0,18810000.0,,Cap Space,Luol Deng,LAL
+Evan Turner,17131148,17868852.0,18606557.0,,Cap Space,Evan Turner,POR
+Goran Dragic,17000450,18109175.0,19217900.0,,Bird Rights,Goran Dragic,MIA
+Evan Fournier,17000000,17000000.0,17000000.0,17000000.0,Cap Space,Evan Fournier,ORL
+Bismack Biyombo,17000000,17000000.0,17000000.0,,Cap Space,Bismack Biyombo,ORL
+Kent Bazemore,16910113,18089887.0,19269662.0,,Cap Space,Kent Bazemore,ATL
+Robert Covington,16698103,10464092.0,11301219.0,12138345.0,Cap Space,Robert Covington,PHI
+Ian Mahinmi,16661641,15944154.0,15450051.0,,Cap Space,Ian Mahinmi,WAS
+Tim Hardaway,16500000,17325000.0,18150000.0,18975000.0,Cap space,Tim Hardaway,NYK
+Draymond Green,16400000,17469565.0,18539130.0,,Bird Rights,Draymond Green,GSW
+Tristan Thompson,16400000,17469565.0,18539130.0,,Bird Rights,Tristan Thompson,CLE
+Reggie Jackson,16000000,17043478.0,18086956.0,,Bird Rights,Reggie Jackson,DET
+Pau Gasol,16000000,16000000.0,16000000.0,,,Pau Gasol,SAS
+Tobias Harris,16000000,14800000.0,,,Bird Rights,Tobias Harris,LAC
+Dwyane Wade,15550000,,,,,Dwyane Wade,CHI
+Dennis Schroder,15500000,15500000.0,15500000.0,15500000.0,1st Round Pick,Dennis Schroder,ATL
+Jonas Valanciunas,15460675,16539326.0,17617977.0,,1st Round Pick,Jonas Valanciunas,TOR
+Tony Parker,15453126,,,,Bird Rights,Tony Parker,SAS
+Timofey Mozgov,15280000,16000000.0,16720000.0,,Cap Space,Timofey Mozgov,BRK
+Andre Iguodala,14814815,16000000.0,17185185.0,,Bird Rights,Andre Iguodala,GSW
+DeMarre Carroll,14800000,15400000.0,,,Cap Space,DeMarre Carroll,BRK
+Thaddeus Young,14796348,13764045.0,,,Bird Rights,Thaddeus Young,IND
+Eric Bledsoe,14500000,15000000.0,,,Bird Rights,Eric Bledsoe,MIL
+Ricky Rubio,14275000,14975000.0,,,1st Round Pick,Ricky Rubio,UTA
+Joe Ingles,14136364,13045455.0,11954546.0,10863637.0,Bird Rights,Joe Ingles,UTA
+Gorgui Dieng,14112360,15170787.0,16229213.0,17287640.0,1st Round Pick,Gorgui Dieng,MIN
+Khris Middleton,14100000,13000000.0,13000000.0,,Bird Rights,Khris Middleton,MIL
+Mason Plumlee,14041096,12917808.0,14041096.0,,Cap space,Mason Plumlee,DEN
+Taj Gibson,14000000,14000000.0,,,Cap space,Taj Gibson,MIN
+James Johnson,13954000,14651700.0,15349400.0,16047100.0,Cap space,James Johnson,MIA
+Robin Lopez,13788500,14357750.0,,,Cap Space,Robin Lopez,CHI
+J.R. Smith,13760000,14720000.0,15680000.0,,Bird Rights,J.R. Smith,CLE
+Brandon Knight,13618750,14631250.0,15643750.0,,,Brandon Knight,PHO
+Marvin Williams,13168750,14087500.0,15006250.0,,Cap Space,Marvin Williams,CHO
+Tyson Chandler,13000000,13585000.0,,,Cap Space,Tyson Chandler,PHO
+Michael Kidd-Gilchrist,13000000,13000000.0,13000000.0,,1st Round Pick,Michael Kidd-Gilchrist,CHO
+Eric Gordon,12943020,13500375.0,14057730.0,,Cap Space,Eric Gordon,HOU
+Kenneth Faried,12921348,13764045.0,,,1st Round Pick,Kenneth Faried,DEN
+Marcin Gortat,12782609,13565218.0,,,Bird Rights,Marcin Gortat,LAC
+Cody Zeller,12584270,13528090.0,14471910.0,15415730.0,1st Round Pick,Cody Zeller,CHO
+Miles Plumlee,12500000,12500000.0,12500000.0,,Bird Rights,Miles Plumlee,ATL
+Nikola Mirotic,12500000,12500000.0,,,Cap space,Nikola Mirotic,NOP
+Zach Randolph,12307692,11692308.0,,,Cap space,Zach Randolph,SAC
+Nikola Vucevic,12250000,12750000.0,,,Bird Rights,Nikola Vucevic,ORL
+Solomon Hill,12236535,12752928.0,13258781.0,,Cap Space,Solomon Hill,NOP
+Wilson Chandler,12016854,12800562.0,,,,Wilson Chandler,DEN
+Derrick Favors,12000000,,,,1st Round Pick,Derrick Favors,UTA
+Jeremy Lin,12000000,12516746.0,,,Cap Space,Jeremy Lin,BRK
+Kemba Walker,12000000,12000000.0,,,1st Round Pick,Kemba Walker,CHO
+Austin Rivers,11825000,12650000.0,,,Cap Space,Austin Rivers,WAS
+Courtney Lee,11747890,12253780.0,12759670.0,,Cap Space,Courtney Lee,NYK
+Nikola Pekovic,11600000,,,,,Nikola Pekovic,MIN
+Jordan Clarkson,11562500,12500000.0,13437500.0,,Cap Space,Jordan Clarkson,CLE
+John Henson,11422536,10577466.0,9732396.0,,1st Round Pick,John Henson,MIL
+Dion Waiters,11000000,11550000.0,12100000.0,12650000.0,Cap space,Dion Waiters,MIA
+Amir Johnson,11000000,,,,Cap space,Amir Johnson,PHI
+Jamal Crawford,10942762,2304226.0,,,,Jamal Crawford,ATL
+Alec Burks,10845506,11536515.0,,,1st Round Pick,Alec Burks,UTA
+Patty Mills,10714286,11571429.0,12428571.0,13285714.0,Bird Rights,Patty Mills,SAS
+Kelly Olynyk,10607169,11137527.0,11667885.0,12198243.0,Cap space,Kelly Olynyk,MIA
+Omer Asik,10595505,11286516.0,11977527.0,,Bird Rights,Omer Asik,CHI
+Terrence Ross,10500000,10500000.0,,,Rookie scale extension,Terrence Ross,ORL
+Mirza Teletovic,10500000,10500000.0,,,,Mirza Teletovic,MIL
+Bojan Bogdanovic,10500000,10500000.0,,,Cap space,Bojan Bogdanovic,IND
+Jon Leuer,10497319,10002681.0,9508043.0,,Cap Space,Jon Leuer,DET
+Iman Shumpert,10337079,11011234.0,,,Bird Rights,Iman Shumpert,SAC
+Maurice Harkless,10162922,10837079.0,11511234.0,,Cap Space,Maurice Harkless,POR
+Danny Green,10000000,10000000.0,,,Bird Rights,Danny Green,SAS
+Darren Collison,10000000,10000000.0,,,Cap space,Darren Collison,IND
+Jared Dudley,10000000,9530000.0,,,Cap Space,Jared Dudley,PHO
+Meyers Leonard,9904495,10595506.0,11286515.0,,Cap Space,Meyers Leonard,POR
+Tony Snell,9821429,10607143.0,11392857.0,12178571.0,Cap space,Tony Snell,MIL
+Al Jefferson,9769821,10000000.0,,,Cap Space,Al Jefferson,IND
+Matthew Dellavedova,9607500,9607500.0,9607500.0,,Cap Space,Matthew Dellavedova,MIL
+Joe Johnson,9505000,,,,,Joe Johnson,SAC
+Bogdan Bogdanovic,9470614,9000000.0,8529386.0,,Cap space,Bogdan Bogdanovic,SAC
+Andre Roberson,9259259,10000000.0,10740741.0,,Bird Rights,Andre Roberson,OKC
+Trevor Booker,9125000,,,,,Trevor Booker,PHI
+Dwight Powell,9003125,9631250.0,10259375.0,,Cap Space,Dwight Powell,DAL
+Jerryd Bayless,9000000,8575916.0,,,Cap Space,Jerryd Bayless,PHI
+Avery Bradley,8808989,,,,Bird Rights,Avery Bradley,LAC
+JaMychal Green,8533333,7866667.0,,,Bird Rights,JaMychal Green,MEM
+E'Twaun Moore,8445024,8808685.0,8664928.0,,Cap Space,E'Twaun Moore,NOP
+Rudy Gay,8406000,,,,MLE,Rudy Gay,SAS
+Kosta Koufos,8393000,8739500.0,,,Cap Space,Kosta Koufos,SAC
+Markieff Morris,8000000,8600000.0,,,Bird Rights,Markieff Morris,WAS
+Garrett Temple,8000000,8000000.0,,,Cap Space,Garrett Temple,SAC
+Vince Carter,8000000,,,,Cap space,Vince Carter,SAC
+C.J. Miles,7936509,8333333.0,8730158.0,,MLE,C.J. Miles,TOR
+Cristiano Felicio,7843500,8470980.0,8156500.0,7529020.0,Cap space,Cristiano Felicio,CHI
+Shaun Livingston,7692308,8307692.0,7692308.0,,Bird Rights,Shaun Livingston,GSW
+Cory Joseph,7630000,7945000.0,,,Cap Space,Cory Joseph,IND
+P.J. Tucker,7590035,7969537.0,8349039.0,7969537.0,MLE,P.J. Tucker,HOU
+Corey Brewer,7579366,,,,,Corey Brewer,LAL
+Andrew Wiggins,7574322,25250000.0,27270000.0,29290000.0,1st Round Pick,Andrew Wiggins,MIN
+Darrell Arthur,7464912,7464912.0,,,Cap Space,Darrell Arthur,DEN
+Channing Frye,7420912,,,,Cap Space,Channing Frye,LAL
+Trevor Ariza,7420912,,,,Bird Rights,Trevor Ariza,HOU
+Al-Farouq Aminu,7319035,6957105.0,,,Cap Space,Al-Farouq Aminu,POR
+Cole Aldrich,7300000,6956021.0,,,Cap Space,Cole Aldrich,MIN
+D.J. Augustin,7250000,7250000.0,7250000.0,,Cap Space,D.J. Augustin,ORL
+Markelle Fultz,7026240,8339880.0,9745200.0,12288697.0,1st Round Pick,Markelle Fultz,PHI
+Lou Williams,7000000,8000000.0,8000000.0,1500000.0,Cap Space,Lou Williams,LAC
+Kyle Korver,7000000,7560000.0,7500000.0,,Bird Rights,Kyle Korver,CLE
+Jeremy Lamb,7000000,7488372.0,,,Rookie scale extension,Jeremy Lamb,CHO
+Boban Marjanovic,7000000,7000000.0,,,Cap Space,Boban Marjanovic,LAC
+Jae Crowder,6796117,7305825.0,7815533.0,,Bird Rights,Jae Crowder,UTA
+Jabari Parker,6782392,,,,1st Round Pick,Jabari Parker,MIL
+Langston Galloway,6666667,7000000.0,7333333.0,,MLE,Langston Galloway,DET
+Lance Thomas,6655325,7119650.0,7583975.0,,Cap Space,Lance Thomas,NYK
+Ed Davis,6352531,,,,Cap Space,Ed Davis,POR
+Marco Belinelli,6306060,,,,,Marco Belinelli,ATL
+Jonathon Simmons,6300000,6000000.0,5700000.0,,Cap space,Jonathon Simmons,ORL
+Lonzo Ball,6286560,7461960.0,8719320.0,11003782.0,1st Round Pick,Lonzo Ball,LAL
+Wayne Ellington,6270000,,,,Cap Space,Wayne Ellington,MIA
+Isaiah Thomas,6261395,,,,,Isaiah Thomas,LAL
+Karl-Anthony Towns,6216840,7839435.0,,,1st round pick,Karl-Anthony Towns,MIN
+Ben Simmons,6168840,6434520.0,8113930.0,,1st Round pick,Ben Simmons,PHI
+Joel Embiid,6100266,25250000.0,27270000.0,29290000.0,1st Round Pick,Joel Embiid,PHI
+Spencer Hawes,6021175,,,,,Spencer Hawes,MIL
+Josh McRoberts,6021175,,,,,Josh McRoberts,DAL
+Dewayne Dedmon,6000000,6300000.0,,,Cap space,Dewayne Dedmon,ATL
+Ish Smith,6000000,6000000.0,,,Cap Space,Ish Smith,DET
+Milos Teodosic,6000000,6300000.0,,,MLE,Milos Teodosic,LAC
+Alan Williams,6000000,5520000.0,5520000.0,,Cap space,Alan Williams,PHO
+Shelvin Mack,6000000,,,,,Shelvin Mack,ORL
+Ersan Ilyasova,6000000,,,,,Ersan Ilyasova,ATL
+Tyler Johnson,5881260,19245370.0,19245370.0,,Cap Space,Tyler Johnson,MIA
+Wesley Johnson,5881260,6134520.0,,,Cap Space,Wesley Johnson,LAC
+Alex Abrines,5725000,5455236.0,,,Cap Space,Alex Abrines,OKC
+Jayson Tatum,5645400,6700800.0,7830000.0,9897120.0,1st Round Pick,Jayson Tatum,BOS
+D'Angelo Russell,5562360,7019698.0,,,1st round pick,D'Angelo Russell,BRK
+Brandon Ingram,5519400,5757120.0,7265485.0,,1st Round pick,Brandon Ingram,LAL
+Patrick Beverley,5513514,5027028.0,,,Bird Rights,Patrick Beverley,LAC
+Aaron Gordon,5504420,,,,1st Round Pick,Aaron Gordon,ORL
+Deron Williams,5500000,5500000.0,5500000.0,,,Deron Williams,BRK
+Josh Smith,5400000,5400000.0,5400000.0,,,Josh Smith,DET
+Thabo Sefolosha,5250000,5250000.0,,,Cap space,Thabo Sefolosha,UTA
+Jason Smith,5225000,5450000.0,,,Cap Space,Jason Smith,WAS
+Ben McLemore,5200000,5460000.0,,,MLE,Ben McLemore,MEM
+Patrick Patterson,5192000,5451600.0,5711200.0,,MLE,Patrick Patterson,OKC
+Nick Young,5192000,,,,MLE,Nick Young,GSW
+Brandan Wright,5179760,,,,,Brandan Wright,MEM
+Josh Jackson,5090040,6041520.0,7059480.0,8930242.0,1st Round Pick,Josh Jackson,PHO
+Marcus Morris,5000000,5375000.0,,,Bird Rights,Marcus Morris,BOS
+Mike Muscala,5000000,5000000.0,,,Cap space,Mike Muscala,ATL
+Dirk Nowitzki,5000000,,,,Cap space,Dirk Nowitzki,DAL
+Greg Monroe,5000000,,,,Disabled Player Exception,Greg Monroe,BOS
+Jahlil Okafor,4995120,,,,1st round pick,Jahlil Okafor,BRK
+Dante Exum,4992385,,,,1st Round Pick,Dante Exum,UTA
+Alexis Ajinca,4961798,5285394.0,,,Early Bird Rights,Alexis Ajinca,NOP
+Jaylen Brown,4956480,5169960.0,6534829.0,,1st Rd pick,Jaylen Brown,BOS
+Jameer Nelson,4736050,,,,,Jameer Nelson,DEN
+Kyle Singler,4666500,4996000.0,5333500.0,,Bird Rights,Kyle Singler,OKC
+Justin Holiday,4615385,4384616.0,,,MLE,Justin Holiday,CHI
+De'Aaron Fox,4609200,5407920.0,6392760.0,8099627.0,1st Round Pick,De'Aaron Fox,SAC
+Marcus Smart,4538020,,,,1st Round Pick,Marcus Smart,BOS
+Kristaps Porzingis,4503600,5697054.0,,,1st round pick,Kristaps Porzingis,NYK
+Dragan Bender,4468800,4661280.0,5896519.0,,1st Round pick,Dragan Bender,PHO
+Devin Harris,4402546,,,,Cap Space,Devin Harris,DEN
+Aron Baynes,4328000,,,,Room Exception,Aron Baynes,BOS
+Ron Baker,4328000,4544400.0,,,Room Exception,Ron Baker,NYK
+Jamal Crawford,4328000,,,,,Jamal Crawford,MIN
+Alex Len,4187599,,,,1st Round Pick,Alex Len,PHO
+Nerlens Noel,4187599,,,,1st Round Pick,Nerlens Noel,DAL
+Jonathan Isaac,4186320,4969080.0,5806440.0,7362566.0,1st Round Pick,Jonathan Isaac,ORL
+Lance Stephenson,4180000,,,,Cap space,Lance Stephenson,IND
+Julius Randle,4149242,,,,1st Round Pick,Julius Randle,LAL
+Kyle O'Quinn,4087500,,,,Bird Rights,Kyle O'Quinn,NYK
+Mario Hezonja,4078320,,,,1st round pick,Mario Hezonja,ORL
+Kris Dunn,4046760,4221000.0,5348007.0,,1st Round pick,Kris Dunn,CHI
+Jonas Jerebko,4000000,,,,Cap space,Jonas Jerebko,UTA
+Nemanja Bjelica,3949999,,,,MLE,Nemanja Bjelica,MIN
+J.J. Barea,3903900,3710850.0,,,Cap Space,J.J. Barea,DAL
+Quincy Pondexter,3853931,,,,,Quincy Pondexter,CHI
+Lauri Markkanen,3821640,4536120.0,5300400.0,6731508.0,1st Round Pick,Lauri Markkanen,CHI
+Nik Stauskas,3807146,,,,1st Round Pick,Nik Stauskas,BRK
+Willie Cauley-Stein,3704160,4696875.0,,,1st round pick,Willie Cauley-Stein,SAC
+Buddy Hield,3675480,3833760.0,4861208.0,,1st Round pick,Buddy Hield,SAC
+Will Barton,3533333,,,,Bird Rights,Will Barton,DEN
+Noah Vonleh,3505233,,,,1st Round Pick,Noah Vonleh,CHI
+Frank Ntilikina,3501120,4155720.0,4855800.0,6176578.0,1st Round Pick,Frank Ntilikina,NYK
+Nene Hilario,3477600,3651480.0,3825360.0,,Non-Bird Rights,Nene Hilario,HOU
+Zaza Pachulia,3477600,,,,,Zaza Pachulia,GSW
+Troy Daniels,3408520,3258540.0,,,Cap Space,Troy Daniels,PHO
+Emmanuel Mudiay,3381480,4294480.0,,,1st round pick,Emmanuel Mudiay,NYK
+Jamal Murray,3355320,3499800.0,4444746.0,,1st Round pick,Jamal Murray,DEN
+Elfrid Payton,3332340,,,,1st Round Pick,Elfrid Payton,PHO
+Rajon Rondo,3300000,,,,MLE,Rajon Rondo,NOP
+Doug McDermott,3294994,,,,1st Round Pick,Doug McDermott,DAL
+Jodie Meeks,3290000,3454500.0,,,Bi-annual Exception,Jodie Meeks,WAS
+Tyreke Evans,3290000,,,,Bi-annual Exception,Tyreke Evans,MEM
+Tarik Black,3290000,,,,Bi-annual Exception,Tarik Black,HOU
+Anthony Tolliver,3290000,,,,Bi-annual Exception,Anthony Tolliver,DET
+Dennis Smith,3218280,3819960.0,4463640.0,5686677.0,1st Round Pick,Dennis Smith,DAL
+Zach LaVine,3202217,,,,1st Round Pick,Zach LaVine,CHI
+Ekpe Udoh,3200000,3360000.0,,,Room Exception,Ekpe Udoh,UTA
+T.J. Warren,3152931,11750000.0,10810000.0,11750000.0,1st Round Pick,T.J. Warren,PHO
+Stanley Johnson,3097800,3940402.0,,,1st round pick,Stanley Johnson,DET
+Marquese Chriss,3073800,3206160.0,4078236.0,,1st Rd pick,Marquese Chriss,PHO
+Zach Collins,3057240,3628920.0,4240200.0,5406255.0,1st Round Pick,Zach Collins,POR
+James Ennis,3028410,,,,Room exception,James Ennis,DET
+Seth Curry,3028410,,,,Room exception,Seth Curry,DAL
+Mindaugas Kuzminskas,3025035,,,,,Mindaugas Kuzminskas,NYK
+Tomas Satoransky,3000000,3129187.0,,,Cap Space,Tomas Satoransky,WAS
+Rajon Rondo,3000000,,,,,Rajon Rondo,CHI
+Jusuf Nurkic,2947305,,,,1st Round Pick,Jusuf Nurkic,POR
+Lucas Nogueira,2947305,,,,1st Round Pick,Lucas Nogueira,TOR
+Malik Monk,2904480,3447480.0,4028400.0,5345687.0,1st Round Pick,Malik Monk,CHO
+Frank Kaminsky,2847600,3627842.0,,,1st round pick,Frank Kaminsky,CHO
+Andrew Nicholson,2844429,2844429.0,2844429.0,2844429.0,,Andrew Nicholson,POR
+Jakob Poeltl,2825640,2947320.0,3754886.0,,1st Round pick,Jakob Poeltl,TOR
+Luke Kennard,2759280,3275280.0,3827160.0,5273826.0,1st Round Pick,Luke Kennard,DET
+Justise Winslow,2705040,3448926.0,,,1st round pick,Justise Winslow,MIA
+Michael Carter-Williams,2700000,,,,Bi-annual Exception,Michael Carter-Williams,CHO
+Thon Maker,2684160,2799720.0,3569643.0,,1st Round pick,Thon Maker,MIL
+Cedi Osman,2642857,2775000.0,2907143.0,,MLE,Cedi Osman,CLE
+Donovan Mitchell,2621280,3111480.0,3635760.0,5195501.0,1st Round Pick,Donovan Mitchell,UTA
+Myles Turner,2569920,3410284.0,,,1st round pick,Myles Turner,IND
+Gary Harris,2550055,16517857.0,17839286.0,19160714.0,1st Round Pick,Gary Harris,DEN
+Domantas Sabonis,2550000,2659800.0,3529555.0,,1st Round pick,Domantas Sabonis,IND
+Manu Ginobili,2500000,2500000.0,,,,Manu Ginobili,SAS
+Reggie Bullock,2500000,2500000.0,,,Cap space,Reggie Bullock,DET
+Richard Jefferson,2500000,,,,,Richard Jefferson,ATL
+Malcolm Delaney,2500000,,,,Room Exception,Malcolm Delaney,ATL
+Bam Adebayo,2490360,2955840.0,3454080.0,5115492.0,1st Round Pick,Bam Adebayo,MIA
+Bruno Caboclo,2451225,,,,1st Round Pick,Bruno Caboclo,SAC
+Ronnie Price,2442455,,,,,Ronnie Price,OKC
+Trey Lyles,2441400,3364249.0,,,1st round pick,Trey Lyles,DEN
+Dario Saric,2422560,2526840.0,3481986.0,,1st Round pick,Dario Saric,PHI
+Taurean Waller-Prince,2422560,2526840.0,3481986.0,,1st Round pick,Taurean Waller-Prince,ATL
+Rodney Hood,2386864,,,,1st Round Pick,Rodney Hood,CLE
+Justin Jackson,2365560,2807880.0,3280920.0,5029650.0,1st Round Pick,Justin Jackson,SAC
+Shabazz Napier,2361360,,,,1st Round Pick,Shabazz Napier,POR
+Clint Capela,2334520,,,,1st Round Pick,Clint Capela,HOU
+Arron Afflalo,2328652,,,,Minimum Salary,Arron Afflalo,ORL
+Nick Collison,2328652,,,,Minimum Salary,Nick Collison,OKC
+Raymond Felton,2328652,,,,Minimum Salary,Raymond Felton,OKC
+Ramon Sessions,2328652,,,,,Ramon Sessions,NYK
+Jarrett Jack,2328652,,,,Minimum Salary,Jarrett Jack,NYK
+Jason Terry,2328652,,,,Minimum Salary,Jason Terry,MIL
+Udonis Haslem,2328652,,,,Minimum Salary,Udonis Haslem,MIA
+Dwyane Wade,2328652,,,,Minimum Salary,Dwyane Wade,MIA
+David West,2328652,,,,Minimum Salary,David West,GSW
+Richard Jefferson,2328652,,,,Minimum Salary,Richard Jefferson,DEN
+Jose Calderon,2328652,,,,Minimum Salary,Jose Calderon,CLE
+Andrew Bogut,2328652,,,,,Andrew Bogut,LAL
+Devin Booker,2319360,3314365.0,27250000.0,29430000.0,1st round pick,Devin Booker,PHO
+Georgios Papagiannis,2301360,2400480.0,3430288.0,,,Georgios Papagiannis,SAC
+Dante Cunningham,2300000,,,,MLE,Dante Cunningham,BRK
+Jameer Nelson,2262871,,,,,Jameer Nelson,DET
+Justin Patton,2247480,2667600.0,3117240.0,4781846.0,1st Round Pick,Justin Patton,MIN
+Guerschon Yabusele,2247480,2667600.0,3117240.0,4781846.0,1st Round Pick,Guerschon Yabusele,BOS
+Monta Ellis,2245400,2245400.0,2245400.0,2245400.0,,Monta Ellis,IND
+Cameron Payne,2203440,3263295.0,,,1st round pick,Cameron Payne,CHI
+Denzel Valentine,2186400,2280600.0,3377569.0,,1st Round pick,Denzel Valentine,CHI
+Josh Smith,2183934,,,,,Josh Smith,NOP
+Kyle Anderson,2151704,,,,1st Round Pick,Kyle Anderson,SAS
+D.J. Wilson,2135040,2534280.0,2961120.0,4548280.0,1st Round Pick,D.J. Wilson,MIL
+Matt Barnes,2133542,2133542.0,2133541.0,,,Matt Barnes,SAC
+Derrick Rose,2116955,,,,,Derrick Rose,UTA
+Marreese Speights,2116955,,,,Minimum Salary,Marreese Speights,ORL
+Michael Beasley,2116955,,,, Minimum Salary,Michael Beasley,NYK
+Aaron Brooks,2116955,,,,,Aaron Brooks,MIN
+Luc Mbah a Moute,2116955,,,,Minimum Salary,Luc Mbah a Moute,HOU
+JaVale McGee,2116955,,,,,JaVale McGee,GSW
+Jeff Green,2116955,,,,Minimum Salary,Jeff Green,CLE
+Tony Allen,2116955,,,,,Tony Allen,CHI
+Damien Wilkins,2116955,,,,,Damien Wilkins,IND
+Omri Casspi,2106470,,,,,Omri Casspi,GSW
+Mario Chalmers,2106407,,,,Minimum Salary,Mario Chalmers,MEM
+Darius Miller,2100000,2205000.0,,,MLE,Darius Miller,NOP
+Kelly Oubre,2093040,3208630.0,,,1st round pick,Kelly Oubre,WAS
+Juan Hernangomez,2076840,2166360.0,3321030.0,,1st Round pick,Juan Hernangomez,DEN
+T.J. Leaf,2028360,2407560.0,2813280.0,4326825.0,1st Round Pick,T.J. Leaf,IND
+Tim Frazier,2000000,,,,Room exception,Tim Frazier,WAS
+Anthony Tolliver,2000000,,,,,Anthony Tolliver,SAC
+Terry Rozier,1988520,3050390.0,,,1st round pick,Terry Rozier,BOS
+Luke Babbitt,1974159,,,,Minimum Salary,Luke Babbitt,MIA
+John Collins,1936920,2299080.0,2686560.0,4137302.0,1st Round Pick,John Collins,ATL
+Anderson Varejao,1913345,1913345.0,1913345.0,1913345.0,,Anderson Varejao,POR
+Rashad Vaughn,1889040,,,,,Rashad Vaughn,NOP
+Tim Duncan,1881250,1881250.0,,,,Tim Duncan,SAS
+Wade Baldwin,1874400,,,,,Wade Baldwin,MEM
+Larry Sanders,1865547,1865547.0,1865547.0,1865547.0,,Larry Sanders,MIL
+Harry Giles,1859400,2207040.0,2578800.0,3976510.0,1st Round Pick,Harry Giles,SAC
+Sam Dekker,1794600,2760095.0,,,1st Round pick,Sam Dekker,LAC
+Terrance Ferguson,1785000,2118840.0,2475840.0,3944013.0,1st Round Pick,Terrance Ferguson,OKC
+Henry Ellenson,1780800,1857480.0,2856804.0,,1st Round pick,Henry Ellenson,DET
+Eric Moreland,1739333,1826300.0,1913267.0,,MLE,Eric Moreland,DET
+Jerian Grant,1713840,2639314.0,,,1st Round pick,Jerian Grant,CHI
+Jarrett Allen,1713720,2034120.0,2376840.0,3909902.0,1st Round Pick,Jarrett Allen,BRK
+Mike Scott,1709538,,,,Minimum Salary,Mike Scott,WAS
+Tyler Zeller,1709538,1933941.0,,,,Tyler Zeller,MIL
+Quincy Acy,1709538,,,,,Quincy Acy,BRK
+Malik Beasley,1700640,1773840.0,2731714.0,,1st Round pick,Malik Beasley,DEN
+Mike Dunleavy,1662500,,,,,Mike Dunleavy,ATL
+Delon Wright,1645200,2536898.0,,,1st Round pick,Delon Wright,TOR
+OG Anunoby,1645200,1952760.0,2281800.0,3872215.0,1st Round Pick,OG Anunoby,TOR
+Ante Zizic,1645200,1952760.0,2281800.0,3872215.0,1st Round Pick,Ante Zizic,CLE
+Caris LeVert,1632480,1702800.0,2625718.0,,1st Round pick,Caris LeVert,BRK
+Nik Stauskas,1621415,,,,Minimum Salary,Nik Stauskas,POR
+Justin Anderson,1579440,2516048.0,,,1st Round pick,Justin Anderson,PHI
+Tyler Lydon,1579440,1874640.0,2190720.0,,1st Round Pick,Tyler Lydon,DEN
+Jeff Withey,1577320,1795015.0,,,,Jeff Withey,DAL
+Ian Clark,1577230,,,,Minimum Salary,Ian Clark,NOP
+Shabazz Muhammad,1577230,1795015.0,,,,Shabazz Muhammad,MIN
+Willie Reed,1577230,,,,,Willie Reed,CHI
+DeAndre Liggins,1577230,,,,,DeAndre Liggins,MIL
+DeAndre' Bembry,1567200,1634640.0,2603982.0,,1st Round pick,DeAndre' Bembry,ATL
+Jerami Grant,1524305,,,,Draft Pick,Jerami Grant,OKC
+Joffrey Lauvergne,1524305,,,,,Joffrey Lauvergne,SAS
+Johnny O'Bryant,1524305,,,,,Johnny O'Bryant,NYK
+Tyler Ennis,1524305,1656092.0,,,Minimum Salary,Tyler Ennis,LAL
+Julyan Stone,1524305,1656092.0,,,Minimum Salary,Julyan Stone,CHO
+Sean Kilpatrick,1524305,,,,,Sean Kilpatrick,BRK
+Spencer Dinwiddie,1524305,1656092.0,,,Minimum Salary,Spencer Dinwiddie,BRK
+Joe Harris,1524305,,,,Minimum Salary,Joe Harris,BRK
+Shane Larkin,1524305,,,,Minimum Salary,Shane Larkin,BOS
+Glenn Robinson,1524305,,,,,Glenn Robinson,IND
+Bobby Brown,1524305,,,,,Bobby Brown,HOU
+Bobby Portis,1516320,2494346.0,,,1st Round pick,Bobby Portis,CHI
+Malachi Richardson,1504560,1569360.0,2581597.0,,1st Round pick,Malachi Richardson,TOR
+Arron Afflalo,1500000,,,,,Arron Afflalo,SAC
+Nikola Jokic,1471382,,,,,Nikola Jokic,DEN
+Norman Powell,1471382,9367200.0,10116576.0,10865952.0,Cap Space,Norman Powell,TOR
+Josh Richardson,1471382,9300000.0,10100000.0,10800000.0,Minimum Salary,Josh Richardson,MIA
+Rondae Hollis-Jefferson,1471382,2470357.0,,,1st Round pick,Rondae Hollis-Jefferson,BRK
+Tyus Jones,1471382,2444053.0,,,1st Round pick,Tyus Jones,MIN
+Jarell Martin,1471382,2416222.0,,,1st Round pick,Jarell Martin,MEM
+Larry Nance,1471382,2272391.0,,,1st Round pick,Larry Nance,CLE
+Raul Neto,1471382,,,,,Raul Neto,UTA
+Kevon Looney,1471382,,,,1st Round pick,Kevon Looney,GSW
+Troy Williams,1471382,1544951.0,1676735.0,,,Troy Williams,HOU
+Chris McCullough,1471382,,,,1st Round pick,Chris McCullough,WAS
+Pat Connaughton,1471382,,,,Minimum Salary,Pat Connaughton,POR
+Richaun Holmes,1471382,1600520.0,,,Cap Space,Richaun Holmes,PHI
+T.J. McConnell,1471382,1600520.0,,,Minimum Salary,T.J. McConnell,PHI
+Josh Huestis,1471382,,,,,Josh Huestis,OKC
+Jordan Mickey,1471382,,,,Minimum Salary,Jordan Mickey,MIA
+Montrezl Harrell,1471382,,,,,Montrezl Harrell,LAC
+Joe Young,1471382,,,,Cap Space,Joe Young,IND
+Salah Mejri,1471382,,,,Minimum Salary,Salah Mejri,DAL
+Caleb Swanigan,1465920,1740000.0,2033160.0,3665787.0,1st Round Pick,Caleb Swanigan,POR
+Furkan Korkmaz,1465920,1740000.0,2033160.0,3665787.0,1st Round Pick,Furkan Korkmaz,PHI
+Willy Hernangomez,1435750,1544951.0,1701735.0,,Cap Space,Willy Hernangomez,CHO
+Kyle Kuzma,1423560,1689840.0,1974600.0,3562178.0,1st Round Pick,Kyle Kuzma,LAL
+Tony Bradley,1414920,1679520.0,1962360.0,3542060.0,1st Round Pick,Tony Bradley,UTA
+Derrick White,1404600,1667160.0,1948080.0,3516284.0,1st Round Pick,Derrick White,SAS
+Josh Hart,1394520,1655160.0,1934160.0,3491159.0,1st Round Pick,Josh Hart,LAL
+Timothe Luwawu-Cabarrot,1386600,1544951.0,2529684.0,,1st Round pick,Timothe Luwawu-Cabarrot,PHI
+Kevin Martin,1360305,1360305.0,,,,Kevin Martin,MIN
+Brice Johnson,1331160,,,,,Brice Johnson,MEM
+Fred VanVleet,1312611,,,,Minimum Salary,Fred VanVleet,TOR
+Pascal Siakam,1312611,1544951.0,2351839.0,,1st Round pick,Pascal Siakam,TOR
+Dejounte Murray,1312611,1544951.0,2321735.0,,1st Round pick,Dejounte Murray,SAS
+Skal Labissiere,1312611,1544951.0,2338847.0,,1st Round pick,Skal Labissiere,SAC
+Malcolm Brogdon,1312611,1544951.0,,,Cap Space,Malcolm Brogdon,MIL
+A.J. Hammons,1312611,1544951.0,,,,A.J. Hammons,MIA
+Rodney McGruder,1312611,1544951.0,,,Minimum Salary,Rodney McGruder,MIA
+Deyonta Davis,1312611,1544951.0,,,Cap Space,Deyonta Davis,MEM
+Wayne Selden,1312611,1544951.0,,,,Wayne Selden,MEM
+Ivica Zubac,1312611,1544951.0,,,Cap Space,Ivica Zubac,LAL
+Chinanu Onuaku,1312611,1544951.0,,,Minimum Salary,Chinanu Onuaku,HOU
+Damian Jones,1312611,1544951.0,2305057.0,,1st Round pick,Damian Jones,GSW
+Cheick Diallo,1312611,1544951.0,,,Minimum Salary,Cheick Diallo,NOP
+Joel Bolomboy,1312611,,,,,Joel Bolomboy,UTA
+Davis Bertans,1312611,,,,Minimum Salary,Davis Bertans,SAS
+Bryn Forbes,1312611,,,,Minimum Salary,Bryn Forbes,SAS
+Jake Layman,1312611,1544951.0,,,Cap Space,Jake Layman,POR
+Tyler Ulis,1312611,1544951.0,1676735.0,,Cap Space,Tyler Ulis,PHO
+Marcus Georges-Hunt,1312611,,,,Minimum Salary,Marcus Georges-Hunt,MIN
+Andrew Harrison,1312611,1544951.0,,,Cap Space,Andrew Harrison,MEM
+Patrick McCaw,1312611,,,,Minimum Salary,Patrick McCaw,GSW
+Yogi Ferrell,1312611,,,,Minimum Salary,Yogi Ferrell,DAL
+Dorian Finney-Smith,1312611,1544951.0,,,Minimum Salary,Dorian Finney-Smith,DAL
+Treveon Graham,1312611,,,,Minimum Salary,Treveon Graham,CHO
+Paul Zipser,1312611,1544951.0,1676735.0,,Cap Space,Paul Zipser,CHI
+David Nwaba,1312611,,,,Minimum Salary,David Nwaba,CHI
+Isaiah Whitehead,1312611,1544951.0,1676735.0,,Cap Space,Isaiah Whitehead,BRK
+Sheldon Mac,1312611,,,,,Sheldon Mac,ATL
+Okaro White,1312611,,,,,Okaro White,ATL
+Nicolas Brussino,1312611,,,,,Nicolas Brussino,ATL
+Diamond Stone,1312611,,,,,Diamond Stone,ATL
+Isaiah Taylor,1312611,1544951.0,,,Minimum Salary,Isaiah Taylor,ATL
+Kay Felder,1312611,1544951.0,,,,Kay Felder,CHI
+Derrick Jones,1312611,,,,,Derrick Jones,PHO
+Chasson Randle,1312611,,,,,Chasson Randle,NYK
+Stephen Zimmerman,1312611,,,,,Stephen Zimmerman,LAL
+Semi Ojeleye,1291892,1378242.0,1618520.0,1752950.0,,Semi Ojeleye,BOS
+Frank Mason,1184385,1378242.0,1618520.0,,,Frank Mason,SAC
+Abdel Nader,1167333,1378242.0,1618520.0,1752950.0,,Abdel Nader,BOS
+Damyean Dotson,1100000,1378242.0,1618520.0,,Minimum Salary,Damyean Dotson,NYK
+Paul Pierce,1096080,,,,,Paul Pierce,LAC
+Isaiah Canaan,1069308,,,,,Isaiah Canaan,PHO
+Wesley Iwundu,1050000,1378242.0,1618520.0,,,Wesley Iwundu,ORL
+Livio Jean-Charles,1035200,,,,,Livio Jean-Charles,SAS
+Justin Hamilton,1000000,1000000.0,1000000.0,,,Justin Hamilton,TOR
+Gerald Henderson,1000000,,,,,Gerald Henderson,PHI
+Rade Zagorac,950000,1378242.0,,,,Rade Zagorac,MEM
+Ivan Rabb,950000,1378242.0,1618520.0,,MLE,Ivan Rabb,MEM
+Ike Anigbogu,950000,1378242.0,1618520.0,,Cap space,Ike Anigbogu,IND
+Gerald Green,947248,,,,Minimum Salary,Gerald Green,HOU
+Jason Thompson,945126,945126.0,,,,Jason Thompson,GSW
+Martell Webster,830000,830000.0,,,,Martell Webster,WAS
+Frank Jackson,815615,1378242.0,1618520.0,,MLE,Frank Jackson,NOP
+Jordan Bell,815615,1378252.0,,,Minimum Salary,Jordan Bell,GSW
+Khem Birch,815615,1378242.0,,,Minimum Salary,Khem Birch,ORL
+Dakari Johnson,815615,1378242.0,,,,Dakari Johnson,OKC
+Sterling Brown,815615,1378242.0,1618520.0,,MLE,Sterling Brown,MIL
+Dillon Brooks,815615,1378242.0,1618520.0,,MLE,Dillon Brooks,MEM
+Sindarius Thornwell,815615,1378242.0,1618520.0,,MLE,Sindarius Thornwell,LAC
+Jawun Evans,815615,1378242.0,1618520.0,,MLE,Jawun Evans,LAC
+Dwayne Bacon,815615,1378242.0,1618520.0,,MLE,Dwayne Bacon,CHO
+Daniel Theis,815615,1378242.0,,,Minimum Salary,Daniel Theis,BOS
+Tyler Dorsey,815615,1378242.0,,,Minimum Salary,Tyler Dorsey,ATL
+Davon Reed,815615,1378242.0,1618520.0,,Minimum Salary,Davon Reed,PHO
+Royce O'Neale,815615,1378242.0,1618520.0,,Cap space,Royce O'Neale,UTA
+Alfonzo McKinnie,815615,1378242.0,,,Minimum Salary,Alfonzo McKinnie,TOR
+Brandon Paul,815615,1378242.0,,,Minimum Salary,Brandon Paul,SAS
+Zhou Qi,815615,1378242.0,1618520.0,1752950.0,MLE,Zhou Qi,HOU
+Maxi Kleber,815615,1378242.0,,,Minimum Salary,Maxi Kleber,DAL
+Sean Kilpatrick,789725,,,,,Sean Kilpatrick,MIL
+Trey Burke,784160,1795015.0,,,Minimum Salary,Trey Burke,NYK
+Alex Poythress,778668,1544951.0,,,Two-Way Converted,Alex Poythress,IND
+Marco Belinelli,776217,,,,,Marco Belinelli,PHI
+Joe Johnson,749905,,,,,Joe Johnson,HOU
+Dwight Buycks,748160,,,,Two-Way Converted,Dwight Buycks,DET
+Tyler Cavanaugh,679919,1378242.0,,,,Tyler Cavanaugh,ATL
+Carlos Delfino,650000,650000.0,,,,Carlos Delfino,LAC
+Caron Butler,517220,517220.0,,,,Caron Butler,SAC
+Jordan Farmar,510921,,,,,Jordan Farmar,LAC
+Ersan Ilyasova,502328,,,,,Ersan Ilyasova,PHI
+Leandro Barbosa,500000,,,,,Leandro Barbosa,PHO
+Tibor Pleiss,500000,,,,,Tibor Pleiss,PHI
+Michael Gbinije,500000,,,,,Michael Gbinije,DET
+Aaron Gray,452059,,,,,Aaron Gray,DET
+Festus Ezeli,333334,333333.0,333333.0,,,Festus Ezeli,POR
+C.J. Watson,333334,333333.0,333333.0,,,C.J. Watson,ORL
+Gal Mekel,315760,,,,,Gal Mekel,DAL
+Miroslav Raduljica,300000,300000.0,,,,Miroslav Raduljica,LAC
+Cameron Oliver,300000,,,,,Cameron Oliver,HOU
+Ramon Sessions,263124,,,,,Ramon Sessions,WAS
+Jordan Crawford,250000,,,,,Jordan Crawford,NOP
+Emeka Okafor,239204,,,,,Emeka Okafor,NOP
+Brandon Jennings,238020,,,,,Brandon Jennings,MIL
+Wade Baldwin,222476,1544951.0,,,,Wade Baldwin,POR
+Isaiah Canaan,200000,,,,,Isaiah Canaan,CHI
+Rakeem Christmas,172552,,,,,Rakeem Christmas,IND
+DeAndre Liggins,172238,,,,,DeAndre Liggins,NOP
+Sean Kilpatrick,172238,,,,,Sean Kilpatrick,LAC
+Rashad Vaughn,166258,,,,,Rashad Vaughn,ORL
+David Stockton,148318,,,,,David Stockton,UTA
+Troy Williams,148318,,,,,Troy Williams,NYK
+Larry Drew,148318,,,,,Larry Drew,NOP
+Travis Wear,148318,,,,,Travis Wear,LAL
+Carrick Felix,140902,,,,,Carrick Felix,WAS
+Brandon Rush,119602,,,,,Brandon Rush,POR
+Jeremy Evans,104059,,,,,Jeremy Evans,ATL
+Derrick Williams,104059,,,,,Derrick Williams,LAL
+K.J. McDaniels,100000,,,,,K.J. McDaniels,TOR
+Marshall Plumlee,100000,,,,,Marshall Plumlee,NYK
+Georges Niang,100000,,,,,Georges Niang,IND
+Quinn Cook,100000,,,,,Quinn Cook,ATL
+Demetrius Jackson,92858,92857.0,92857.0,92857.0,,Demetrius Jackson,BOS
+Kyle Collinsworth,92160,,,,,Kyle Collinsworth,DAL
+Josh Gray,92160,,,,,Josh Gray,PHO
+Naz Mitrou-Long,92160,,,,,Naz Mitrou-Long,UTA
+Nigel Hayes,92160,,,,,Nigel Hayes,TOR
+Shaquille Harrison,92160,,,,,Shaquille Harrison,PHO
+Rodney Purvis,92160,,,,,Rodney Purvis,ORL
+"Walt Lemon, Jr.",92160,,,,,"Walt Lemon, Jr.",NOP
+Antonius Cleveland,92160,,,,,Antonius Cleveland,ATL
+Damion Lee,92160,,,,,Damion Lee,ATL
+Jaylen Morris,92160,,,,,Jaylen Morris,ATL
+Mike James,87552,,,,,Mike James,PHO
+MarShon Brooks,86119,,,,,MarShon Brooks,MEM
+Jarell Eddie,83129,,,,,Jarell Eddie,BOS
+Jarell Eddie,83129,,,,,Jarell Eddie,CHI
+Briante Weber,83129,,,,,Briante Weber,MEM
+Marquis Teague,83129,,,,,Marquis Teague,MEM
+Aaron Harrison,83129,,,,,Aaron Harrison,DAL
+Demetrius Jackson,74159,,,,,Demetrius Jackson,HOU
+Georgios Papagiannis,74159,,,,,Georgios Papagiannis,POR
+Scotty Hopson,74159,,,,,Scotty Hopson,DAL
+Okaro White,74159,,,,,Okaro White,CLE
+Xavier Silas,74159,,,,,Xavier Silas,BOS
+Isaiah Canaan,53465,,,,,Isaiah Canaan,HOU
+Tyler Cavanaugh,50000,,,,,Tyler Cavanaugh,ATL
+Kyle Collinsworth,50000,,,,,Kyle Collinsworth,DAL
+Demetrius Jackson,50000,,,,,Demetrius Jackson,HOU
+Daniel Ochefu,50000,,,,,Daniel Ochefu,WAS
+Michael Young,50000,,,,,Michael Young,WAS
+Eric Griffin,50000,,,,,Eric Griffin,UTA
+Nate Wolters,50000,,,,,Nate Wolters,UTA
+Naz Mitrou-Long,50000,,,,,Naz Mitrou-Long,UTA
+James Michael McAdoo,50000,,,,,James Michael McAdoo,PHI
+Jacob Pullen,50000,,,,,Jacob Pullen,PHI
+Nigel Hayes,50000,,,,,Nigel Hayes,NYK
+Jalen Moore,50000,,,,,Jalen Moore,MIL
+Gary Payton,50000,,,,,Gary Payton,MIL
+Matt Williams,50000,,,,,Matt Williams,MIA
+Vince Hunter,50000,,,,,Vince Hunter,MEM
+V.J. Beachem,50000,,,,,V.J. Beachem,LAL
+Briante Weber,50000,,,,,Briante Weber,LAL
+Vander Blue,50000,,,,,Vander Blue,LAL
+Jamil Wilson,50000,,,,,Jamil Wilson,LAC
+Briante Weber,50000,,,,,Briante Weber,HOU
+Luis Montero,50000,,,,,Luis Montero,DET
+Antonius Cleveland,50000,,,,,Antonius Cleveland,DAL
+Gian Clavell,50000,,,,,Gian Clavell,DAL
+Diamond Stone,50000,,,,,Diamond Stone,CHI
+Yakuba Ouattara,50000,,,,,Yakuba Ouattara,BRK
+Jeremy Evans,50000,,,,,Jeremy Evans,ATL
+Nigel Hayes,46080,,,,,Nigel Hayes,LAL
+Xavier Rathan-Mayes,46080,,,,,Xavier Rathan-Mayes,MEM
+Trey McKinney-Jones,46080,,,,,Trey McKinney-Jones,IND
+Le'Bryan Nash,46080,,,,,Le'Bryan Nash,HOU
+Jameel Warney,46080,,,,,Jameel Warney,DAL
+Marcus Thornton,46080,,,,,Marcus Thornton,CLE
+DeAndre Liggins,26773,,,,,DeAndre Liggins,ATL
+Axel Toupane,25000,,,,,Axel Toupane,NOP
+Quinn Cook,25000,,,,,Quinn Cook,NOP
+Chris Johnson,25000,,,,,Chris Johnson,HOU
+Beno Udrih,25000,,,,,Beno Udrih,DET
+Joel Bolomboy,22248,,,,,Joel Bolomboy,MIL
+Jarell Eddie,17224,,,,,Jarell Eddie,CHI
