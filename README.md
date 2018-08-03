@@ -1,3 +1,5 @@
+# NBA Free Agent Salary Predictor
+
 “There is an epidemic failure within the game to understand what is really happening. This leads people who run Major League Baseball teams to misjudge their players and mismanage their teams.”
   							                - Jonah Hill (Moneyball, 2011)
 
