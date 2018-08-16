@@ -16,6 +16,7 @@ For my modeling process I tried several different algorithms. I ran my data thro
 ## Results
 
 RMSE: $1,890,876.79
+
 r2: .783
 
 Considering the amount of outliers that I had, I am very happy with an RMSE of just under $1.9M. There are some aspects of NBA free agency that are difficult to put into a model. For example, I was about $6.5M off on Kevin Durant's 2017-18 contract. He took less money at this time so that the Warriors could also re-sign some key role players. Another outlier was Dwight Howard's 2018-19 contract which I was around $15M off. It was difficult to put a player's awful relationships with past teams or a player deciding to less money than he deserves into the model, however these are problems that I am currently trying to navigate.
